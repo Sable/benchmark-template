@@ -1,0 +1,12 @@
+{
+    "type": "benchmark",
+    "name":"Template for creating a new benchmark",
+    "short-name":"template",
+    "description":"",
+    "version":"1.0.0",
+    "input-size": {
+        "small": 1000,
+        "medium": 10000,
+        "large": 100000
+    }
+}
