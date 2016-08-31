@@ -9,11 +9,6 @@
         "medium": 10000,
         "large": 15000
     },
-    "expected-output": {
-        "small": 246857,
-        "medium": 110531,
-        "large": 110014
-    },
     "compatibilities": [
         {
             "source": "https://github.com/Sable/matlab-implementation-template.git",
